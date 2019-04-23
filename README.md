@@ -1,2 +1,2 @@
 # NotificationAlert
-A Python PyQt5 desktop application
+A Python PyQt5 desktop application to pop up an alert at the specified time for 15 seconds, to aware the person about some important task...
